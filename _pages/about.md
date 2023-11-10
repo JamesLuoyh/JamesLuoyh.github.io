@@ -12,8 +12,8 @@ Hi, there!
 
 I’m Yuhong Luo, a Master’s student in Computer Science at the University of Massachusetts Amherst.
 
-Recently, I am working with [Philip Thomas](https://people.cs.umass.edu/~pthomas/) on learning fair representations with high-confidence guarantees.
+Currently, I am working with [Philip Thomas](https://people.cs.umass.edu/~pthomas/) on providing machine learning algorithms with high-confidence fairness guarantees.
 
-Overall, my research interest is in AI fairness and robustness. Particularly, I am interested in analyzing modern ML systems and exploring opportunities to enhance the worst-group performance under distributional shifts or adversarial attacks, both from a theoretical and empirical perspective. I am also interested in learning and improving efficient and effective data mining algorithms for social science.
+Overall, my research interest is in AI fairness and robustness. Particularly, I am interested in analyzing modern ML systems from both the algorithmic and statistical perspectives, and exploring opportunities to improve worst-case performance. I am also interested in applying and creating efficient data mining algorithms for social computing.
 
 You can reach me at yuhongluo@umass.edu.

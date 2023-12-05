@@ -20,7 +20,9 @@ author_profile: true
 
 [Download paper here.](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)
 
+## Priprint
+
 ### Learning Fair Representations with High-Confidence Guarantees.
-**Yuhong Luo**, Austin Hoag and Philip S. Thomas. In submission, *arXiv preprint arXiv:2310.15358*, 2023.
+**Yuhong Luo**, Austin Hoag and Philip S. Thomas. *arXiv preprint arXiv:2310.15358*, 2023.
 
 [Download paper here.](https://arxiv.org/pdf/2310.15358.pdf)

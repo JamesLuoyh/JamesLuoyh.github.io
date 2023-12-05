@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Draft Post"
+title:  "Draft Posty"
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 

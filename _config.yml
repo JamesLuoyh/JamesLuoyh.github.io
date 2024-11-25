@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuhong Luo"
 title_separator          : "-"
 name                     : &name "Yuhong Luo"
-description              : &description "MS at UMass Amherst"
+description              : &description "PhD Student at Rutgers"
 url                      : https://jamesluoyh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JamesLuoyh.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuhong Luo"
   avatar           : "profile.jpeg"
-  bio              : "MS at UMass Amherst"
+  bio              : "PhD Student at Rutgers"
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NnhGIRwAAAAJ"
-  email            : "yuhongluo@umass.edu"
+  email            : "y.luo@rutgers.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

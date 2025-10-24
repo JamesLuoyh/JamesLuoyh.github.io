@@ -16,6 +16,6 @@ Currently, I am working with [Xintong Wang](https://xintongemilywang.github.io/)
 
 On a higher level, my research interest is in AI robustness and trustworthiness. Particularly, I am interested in analyzing modern ML systems (e.g., LLMs) from both the algorithmic and statistical perspectives.
 
-Before Rutgers, I was a Master's student at UMass, working with [Philip Thomas](https://people.cs.umass.edu/~pthomas/) on providing machine learning algorithms with high-confidence fairness guarantees and with [Pan Li](https://sites.google.com/view/panli-purdue/home) on scalable and predictive temporal graph representation learning.
+Before Rutgers, I was a Master's student at UMass, working with [Philip Thomas](https://people.cs.umass.edu/~pthomas/) and [Przemek Grabowicz](https://przemyslslaw.github.io/) on providing machine learning algorithms with high-confidence fairness guarantees and with [Pan Li](https://sites.google.com/view/panli-purdue/home) on scalable and predictive temporal graph representation learning.
 
 You can reach me at y.luo@rutgers.edu.

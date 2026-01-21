@@ -12,7 +12,7 @@ Hi, there!
 
 I’m Yuhong Luo, a second-year PhD student in Computer Science at Rutgers.
 
-Currently, I am working with [Xintong Wang](https://xintongemilywang.github.io/) on AI and Economics. Recently, I am studying algorithm collusion and mechanism design for LLMs.
+Currently, I am working with [Xintong Wang](https://xintongemilywang.github.io/) on AI and Economics. Recently, I am studying mechanism design and multi-agent learning for LLMs.
 
 On a higher level, my research interest is in AI robustness and trustworthiness. Particularly, I am interested in analyzing modern ML systems (e.g., LLMs) from both the algorithmic and statistical perspectives.
 

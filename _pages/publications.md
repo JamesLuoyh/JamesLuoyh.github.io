@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### [Algorithmic collusion at inference time: A meta-game design and evaluation.](https://openreview.net/pdf?id=P5d1b9die4)
+**Yuhong Luo**, Daniel Schoepflin and Xintong Wang. *AAMAS*, 2026.
+
 ### [Fair Representation Learning with Controllable High Confidence Guarantees via Adversarial Inference.](https://openreview.net/pdf?id=sa6icF1Mnd)
 **Yuhong Luo**, Austin Hoag, Xintong Wang, Philip S. Thomas, Przemyslaw A. Grabowicz. In *NeurIPS*, 2025.
 
@@ -32,9 +35,6 @@ author_profile: true
 <!-- [Download paper here.](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf) -->
 
 ## Priprint
-
-### [Algorithmic collusion at inference time: A meta-game design and evaluation.](https://openreview.net/pdf?id=P5d1b9die4)
-**Yuhong Luo**, Daniel Schoepflin and Xintong Wang. *Insubmission*, 2025.
 
 ### [Can LLM Agents Assist Dynamic Network Simulation? A Case Study on Email Networks and Phishing Synthesis. In submission.](https://openreview.net/pdf?id=pPNtJDpY6q)
 Siqi Miao, Ziyang Chen, **Yuhong Luo**, Hans Hao-Hsun Hsu, Mufei Li, Kaiqing Zhang, Pan Li. *Insubmission*, 2025.

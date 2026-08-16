@@ -15,31 +15,51 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### [Algorithmic collusion at inference time: A meta-game design and evaluation.](https://openreview.net/pdf?id=P5d1b9die4)
-**Yuhong Luo**, Daniel Schoepflin and Xintong Wang. *AAMAS*, 2026.
+### Publications
 
-### [Fair Representation Learning with Controllable High Confidence Guarantees via Adversarial Inference.](https://openreview.net/pdf?id=sa6icF1Mnd)
-**Yuhong Luo**, Austin Hoag, Xintong Wang, Philip S. Thomas, Przemyslaw A. Grabowicz. In *NeurIPS*, 2025.
+1. **Algorithmic collusion at inference time: A meta-game design and evaluation.**  
+   **Yuhong Luo**, Daniel Schoepflin and Xintong Wang.  
+   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2026.  
+   [[arXiv]](https://arxiv.org/abs/2602.17203)
+1. **Fair Representation Learning with Controllable High Confidence Guarantees via Adversarial Inference.**  
+   **Yuhong Luo**, Austin Hoag, Xintong Wang, Philip S. Thomas, Przemyslaw A. Grabowicz.  
+   *Neural Information Processing Systems (NeurIPS)*, 2025. *Scholar Award*.  
+   [[arXiv]](https://arxiv.org/abs/2510.21017)
+1. **Scalable and Efficient Temporal Graph Representation Learning via Forward Recent Sampling.**  
+   **Yuhong Luo** and Pan Li.  
+   *Learning on Graphs Conference (LoG)*, 2024.  
+   [[arXiv]](https://arxiv.org/abs/2402.01964)
+1. **Neighborhood-aware Scalable Temporal Network Representation Learning.**  
+   **Yuhong Luo** and Pan Li.  
+   *Learning on Graphs Conference (LoG)*, 2022. *Best Paper Award*.  
+   [[arXiv]](https://arxiv.org/abs/2209.01084)
 
-<!-- [Download paper here.](https://openreview.net/pdf?id=sa6icF1Mnd) -->
+### Workshops
 
-### [Scalable and Efficient Temporal Graph Representation Learning via Forward Recent Sampling.](https://arxiv.org/abs/2402.01964)
-**Yuhong Luo** and Pan Li. In *Learning on Graphs*, 2024.
+1. **Decentralized Aggregation of LLM Predictions via Wagering Mechanisms.**
+    **Yuhong Luo**, David M Pennock, Xintong Wang.
+    *ICML: AI Forecasting Workshop*, 2026. *(Spotlight)*.
+    *EC: Game Theory and Mechanism Design with Large Language Models*, 2026.
+    *Marketplace Innovation Workshop (MIW)*, 2026. 
+    [[arXiv]](https://arxiv.org/abs/2607.04389)
 
-<!-- [Download paper here.](https://arxiv.org/abs/2402.01964) -->
+1. **Algorithmic collusion at inference time: A meta-game design and evaluation.**
+    **Yuhong Luo**, Daniel Schoepflin and Xintong Wang.
+    *EC: Game Theory and Mechanism Design with Large Language Models*, 2026;
+    *Marketplace Innovation Workshop (MIW)*, 2026; 
+    [[arXiv]](https://arxiv.org/abs/2602.17203)  
 
+### Preprints
 
-### [Neighborhood-aware Scalable Temporal Network Representation Learning.](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)
-**Yuhong Luo** and Pan Li. In *Learning on Graphs*, 2022. Oral (4.6%), *Best Paper Award*.
-
-<!-- [Download paper here.](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf) -->
-
-## Priprint
-
-### [Can LLM Agents Assist Dynamic Network Simulation? A Case Study on Email Networks and Phishing Synthesis. In submission.](https://openreview.net/pdf?id=pPNtJDpY6q)
-Siqi Miao, Ziyang Chen, **Yuhong Luo**, Hans Hao-Hsun Hsu, Mufei Li, Kaiqing Zhang, Pan Li. *Insubmission*, 2025.
-
-### [Learning Fair Representations with High-Confidence Guarantees.](https://arxiv.org/pdf/2310.15358.pdf)
-**Yuhong Luo**, Austin Hoag and Philip S. Thomas. *arXiv preprint arXiv:2310.15358*, 2023.
-
-<!-- [Download paper here.] -->
+1. **Decentralized Aggregation of LLM Predictions via Wagering Mechanisms.**
+    **Yuhong Luo**, David M Pennock, Xintong Wang.
+    *In submission*, 2026.  
+    [[arXiv]](https://arxiv.org/abs/2607.04389)
+1. **Can LLM Agents Simulate Dynamic Networks? A Case Study on Email Networks with Phishing Synthesis.**  
+   Siqi Miao, Ziyang Chen, **Yuhong Luo**, Hans Hao-Hsun Hsu, Mufei Li, Kaiqing Zhang, Pan Li.  
+   *In submission*, 2026.  
+   [[arXiv]](https://arxiv.org/abs/2605.12507)
+1. **Learning Fair Representations with High-Confidence Guarantees.**  
+   **Yuhong Luo**, Austin Hoag and Philip S. Thomas.  
+   *arXiv preprint*, 2023.  
+   [[arXiv]](https://arxiv.org/abs/2310.15358)

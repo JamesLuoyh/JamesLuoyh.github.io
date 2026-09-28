@@ -34,7 +34,7 @@ I am happy to connect and chat! Feel free to reach me at y.luo@rutgers.edu!
 - First-author paper accepted by **AAMAS** 2026!
   - [Algorithmic Collusion at Test Time: A Meta-game Design and Evaluation](https://arxiv.org/abs/2602.17203)
 
-<details>
+<details markdown="1">
 <summary>Past news</summary>
 
 - First-author paper accepted by **NeurIPS** 2025!
@@ -45,4 +45,5 @@ I am happy to connect and chat! Feel free to reach me at y.luo@rutgers.edu!
 
 - First-author paper accepted by **Learning on Graphs** 2022 and received the **best paper award** (1 of 2)!
   - [Neighborhood-aware Scalable Temporal Network Representation Learning](https://arxiv.org/abs/2209.01084)
+
 </details>
